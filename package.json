@@ -1,0 +1,18 @@
+{
+  "name": "cheaper-car-insurance",
+  "main": "./lib/cheaper-car-insurance",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "cheaper-car-insurance:toggle"
+  },
+  "repository": "https://github.com/atom/cheaper-car-insurance",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

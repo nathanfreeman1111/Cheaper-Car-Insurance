@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle cheaper-car-insurance",
+        "command": "cheaper-car-insurance:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "cheaper-car-insurance",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "cheaper-car-insurance:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
